@@ -17,7 +17,7 @@ public class Main {
 
         curso2.setTitulo("curso js");
         curso2.setDescricao("descrição curso js");
-        curso2.setCargaHoraria(8);
+        curso2.setCargaHoraria(4);
 
         System.out.println(curso2);
 
