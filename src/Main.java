@@ -44,19 +44,24 @@ public class Main {
         dev.progredir();
         dev.progredir();
         dev.progredir();
-        System.out.println("---");
+
+        System.out.println();
         System.out.println("Conteudos Inscritos" + dev.getConteudosInscritos());
+        System.out.println();
         System.out.println("Conteudos Concluidos" + dev.getConteudosConcluidos());
         System.out.println("XP " + dev.calcularTotalXp());
 
-        System.out.println("----------");
+        System.out.println();
+
         Dev dev1 = new Dev();
         dev1.setNome("Maira");
         dev1.inscreverBootcamp(bootcamp);
         System.out.println("Conteudos Inscritos" + dev1.getConteudosInscritos());
         dev1.progredir();
-        System.out.println("---");
+
+        System.out.println();
         System.out.println("Conteudos Inscritos" + dev1.getConteudosInscritos());
+        System.out.println();
         System.out.println("Conteudos Concluidos" + dev1.getConteudosConcluidos());
         System.out.println("XP " + dev1.calcularTotalXp());
     }
