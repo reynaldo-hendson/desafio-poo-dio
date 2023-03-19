@@ -5,15 +5,11 @@
 
 <p>Nesse desafio foi abordado Programação Orientada a Objetos (POO) com Java e utilizando de todos os pilares da OO que são Abstração, Encapsulamento, Herança e Polimorfismo.</p>
 
-```<HTML>
 <div align="center">
 
 ![Pilares POO](https://leandromtr.com/wp-content/uploads/2019/08/pilares-orientacao-objeto-1-1-2-1.jpg)
 
 </div>
-```
-
-
 
 A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
 Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.
